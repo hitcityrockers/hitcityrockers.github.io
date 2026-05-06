@@ -362,3 +362,13 @@
     transform: rotate(360deg);
   }
 }
+
+.site-footer p {
+  margin: 5px 0;
+  text-align: center;
+}
+
+.site-footer .credit {
+  font-size: 12px;
+  opacity: 0.8;
+}
